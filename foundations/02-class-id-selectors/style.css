@@ -1,0 +1,17 @@
+.odd-number{
+ background-color: rgb(210, 75, 98);  
+ font-family: Verdana, DejaVu Sans, sans-serif; 
+}
+#care2{
+    font-size: 24px;
+}
+
+#care1{
+    color: #aabbff;
+    font-size: 36px;
+}
+#care4{
+    background-color:#00ff00 ;
+    font-size: 24px;
+    font-weight: bold;
+}
