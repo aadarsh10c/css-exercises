@@ -1,7 +1,31 @@
+/*
 .container .text{
     background-color: #ffff00dc;
     color: #e91111ca;
     font-size: 20px;
     text-align: center;
 
+}
+
+
+
+div p{
+    background-color: #ffff00dc;
+    color: #e91111ca;
+    font-size: 20px;
+    text-align: center;
+}
+
+div .text{
+    background-color: #ffff00dc;
+    color: #e91111ca;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+.container p{
+    background-color: #ffff00dc;
+    color: #e91111ca;
+    font-size: 20px;
+    text-align: center;
 }
