@@ -2,19 +2,22 @@ body {
   max-width: 600px;
   margin: 0 auto;
 }
-
+div{
+  display: inline;
+}
 .one {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
   padding: 0px;
-  margin: 0px;
+  margin-top: 20px;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
+  margin-top: 20px;
   margin-bottom: 0px;
 }
 
